@@ -1,4 +1,4 @@
-update=Tue 31 May 2016 05:15:42 PM CDT
+update=Tue 31 May 2016 05:39:12 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/birdman/Documents/kicad_libraries/kicad_libs/TLC5954
+LibName31=../../kicad_libraries/sch/TLC5954
+
