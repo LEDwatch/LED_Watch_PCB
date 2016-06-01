@@ -1,6 +1,6 @@
-update=Tue 31 May 2016 06:31:59 PM CDT
+update=Tue 31 May 2016 06:50:33 PM CDT
 version=1
-last_client=eeschema
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -28,11 +28,6 @@ version=1
 [eeschema]
 version=1
 LibDir=
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device

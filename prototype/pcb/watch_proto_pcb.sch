@@ -29,6 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:TLC5954
+LIBS:watch_led
 LIBS:watch_proto_pcb-cache
 EELAYER 25 0
 EELAYER END
