@@ -48,7 +48,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text Notes 3250 1400 0    500  ~ 0
-TLC and LED Matric
+TLC and LED Matrix
 $Comp
 L TLC5954 U1
 U 1 1 574E1311
