@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name led)(type KiCad)(uri /home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/mod/led.pretty)(options "")(descr ""))
+)

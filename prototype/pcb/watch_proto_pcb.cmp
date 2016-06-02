@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-17 BZR 5609)-product   date = Wed 01 Jun 2016 09:12:26 PM CDT
+
+BeginCmp
+TimeStamp = /574DFB38/574F4CFC;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F5C22;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F60F7;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E238B;
+Reference = D1;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38B0;
+Reference = D2;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E23F2;
+Reference = D3;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38B6;
+Reference = D4;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E2426;
+Reference = D5;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38BC;
+Reference = D6;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E245C;
+Reference = D7;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38C2;
+Reference = D8;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E41CA;
+Reference = D9;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E248E;
+Reference = D10;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E41D0;
+Reference = D11;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E24C0;
+Reference = D12;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E41D6;
+Reference = D13;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38A4;
+Reference = D14;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E41DC;
+Reference = D15;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E38AA;
+Reference = D16;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574F17B7;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /574F18A7;
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /574F453F;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F2CDF;
+Reference = Q1;
+ValeurCmp = RZM001P02;
+IdModule  = smt:SOT-723-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F3320;
+Reference = Q2;
+ValeurCmp = RZM001P02;
+IdModule  = smt:SOT-723-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F337A;
+Reference = Q3;
+ValeurCmp = RZM001P02;
+IdModule  = smt:SOT-723-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574F3564;
+Reference = Q4;
+ValeurCmp = RZM001P02;
+IdModule  = smt:SOT-723-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E4A04;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E4AA0;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E4AE0;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E48DB;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574EFA18;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/574E1311;
+Reference = U1;
+ValeurCmp = TLC5954;
+IdModule  = smt:QFN_N56_THERM;
+EndCmp
+
+EndListe
