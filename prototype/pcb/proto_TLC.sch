@@ -577,8 +577,6 @@ Wire Wire Line
 Wire Wire Line
 	6100 4900 6100 4650
 Wire Wire Line
-	5950 4650 5950 4900
-Wire Wire Line
 	6500 3050 6500 3300
 Wire Wire Line
 	6650 3050 6650 3300
@@ -707,7 +705,6 @@ Wire Wire Line
 	13550 1900 14600 1900
 Connection ~ 14600 1900
 NoConn ~ 4550 7300
-NoConn ~ 7700 8400
 Text HLabel 2250 3200 0    60   Input ~ 0
 SIN
 Wire Wire Line
@@ -951,4 +948,6 @@ Wire Wire Line
 Connection ~ 3550 8600
 Wire Wire Line
 	3650 8500 3650 8600
+Wire Wire Line
+	5950 4650 5950 4900
 $EndSCHEMATC

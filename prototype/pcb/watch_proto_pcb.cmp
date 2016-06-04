@@ -1,21 +1,21 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-17 BZR 5609)-product   date = Wed 01 Jun 2016 09:12:26 PM CDT
+Cmp-Mod V01 Created by Cvpcb (2015-04-17 BZR 5609)-product   date = Thu 02 Jun 2016 09:32:37 PM CDT
 
 BeginCmp
-TimeStamp = /574DFB38/574F4CFC;
+TimeStamp = /574DFB38/574F60F7;
 Reference = C1;
 ValeurCmp = C;
 IdModule  = Capacitors_SMD:C_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574F5C22;
+TimeStamp = /574DFB38/574F4CFC;
 Reference = C2;
 ValeurCmp = C;
 IdModule  = Capacitors_SMD:C_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574F60F7;
+TimeStamp = /574DFB38/574F5C22;
 Reference = C3;
 ValeurCmp = C;
 IdModule  = Capacitors_SMD:C_0603;
@@ -29,106 +29,414 @@ IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38B0;
+TimeStamp = /574DFB38/574E23F2;
 Reference = D2;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E23F2;
+TimeStamp = /574DFB38/574E2426;
 Reference = D3;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38B6;
+TimeStamp = /574DFB38/574E245C;
 Reference = D4;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E2426;
+TimeStamp = /574DFB38/574E248E;
 Reference = D5;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38BC;
+TimeStamp = /574DFB38/574E24C0;
 Reference = D6;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E245C;
+TimeStamp = /574DFB38/574E38A4;
 Reference = D7;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38C2;
+TimeStamp = /574DFB38/574E38AA;
 Reference = D8;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E41CA;
+TimeStamp = /574DFB38/574E38B0;
 Reference = D9;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E248E;
+TimeStamp = /574DFB38/574E38B6;
 Reference = D10;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E41D0;
+TimeStamp = /574DFB38/574E38BC;
 Reference = D11;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E24C0;
+TimeStamp = /574DFB38/574E38C2;
 Reference = D12;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E41D6;
+TimeStamp = /574DFB38/574E41CA;
 Reference = D13;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38A4;
+TimeStamp = /574DFB38/574E41D0;
 Reference = D14;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E41DC;
+TimeStamp = /574DFB38/574E41D6;
 Reference = D15;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E38AA;
+TimeStamp = /574DFB38/574E41DC;
 Reference = D16;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F94A;
+Reference = D17;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F950;
+Reference = D18;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F956;
+Reference = D19;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F95C;
+Reference = D20;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F962;
+Reference = D21;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F968;
+Reference = D22;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F96E;
+Reference = D23;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F974;
+Reference = D24;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFDA;
+Reference = D25;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFE0;
+Reference = D26;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFE6;
+Reference = D27;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFEC;
+Reference = D28;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFF2;
+Reference = D29;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFF8;
+Reference = D30;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750FFFE;
+Reference = D31;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510004;
+Reference = D32;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F97A;
+Reference = D33;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F980;
+Reference = D34;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F986;
+Reference = D35;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F98C;
+Reference = D36;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F992;
+Reference = D37;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F998;
+Reference = D38;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F99E;
+Reference = D39;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5750F9A4;
+Reference = D40;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5751000A;
+Reference = D41;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510010;
+Reference = D42;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510016;
+Reference = D43;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5751001C;
+Reference = D44;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510022;
+Reference = D45;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510028;
+Reference = D46;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/5751002E;
+Reference = D47;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510034;
+Reference = D48;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A45;
+Reference = D49;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A4B;
+Reference = D50;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A51;
+Reference = D51;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A57;
+Reference = D52;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A5D;
+Reference = D53;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A63;
+Reference = D54;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A69;
+Reference = D55;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A6F;
+Reference = D56;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A75;
+Reference = D57;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A7B;
+Reference = D58;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A81;
+Reference = D59;
+ValeurCmp = APHB1608LVBDSEKJ3C;
+IdModule  = led:led_dual;
+EndCmp
+
+BeginCmp
+TimeStamp = /574DFB38/57510A87;
+Reference = D60;
 ValeurCmp = APHB1608LVBDSEKJ3C;
 IdModule  = led:led_dual;
 EndCmp
@@ -204,14 +512,14 @@ IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574E48DB;
+TimeStamp = /574DFB38/574EFA18;
 Reference = R4;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /574DFB38/574EFA18;
+TimeStamp = /574DFB38/574E48DB;
 Reference = R5;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0603;
