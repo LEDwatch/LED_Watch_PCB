@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAP_0.01UF_0402
+D Unpolarized capacitor, 0.01UF, 5%, 25V, X7R, 0402
+K c, cap,
+$ENDCMP
+#
+$CMP CAP_0.1UF_0402
+D Unpolarized capacitor, 0.1UF, 10%, 10V, 0402
+K c, cap,
+$ENDCMP
+#
+$CMP CAP_10UF_0603
+D Unpolarized capacitor, 10UF, 10%, 10V, 0603
+K c, cap,
+$ENDCMP
+#
+$CMP CAP_15PF_0402
+D Unpolarized capacitor, 15PF, 5%, 25V, 0402
+K c, cap, 15pf
+$ENDCMP
+#
+$CMP CAP_1UF_0402
+D Unpolarized capacitor, 1UF, 10%, 6.3V, 0402
+K c, cap,
+$ENDCMP
+#
+$CMP C_Small
+D Unpolarized capacitor
+$ENDCMP
+#
+#End Doc Library

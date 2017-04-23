@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RES_0R0_0402
+D Resistor, 0OHM, 1/16W, 0402
+K JMP, JUMPER, RES, R, RESISTOR
+$ENDCMP
+#
+$CMP R_Small
+D Resistor, 0OHM, 1/16W, 0402
+K JMP, JUMPER, RES, R, RESISTOR
+$ENDCMP
+#
+#End Doc Library

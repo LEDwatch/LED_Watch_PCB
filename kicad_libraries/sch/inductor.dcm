@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMI_FILTER
+D Filtre EMI, 100MA, 470OHM @ 100MHZ, 0402
+K EMI, L, F, IND*
+$ENDCMP
+#
+#End Doc Library

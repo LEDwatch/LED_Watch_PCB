@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP xtal_8MHz
+D Two pin crystal, 8MHZ
+K Quartz, Resonator, Ceramic, Filter, 8MHZ, 
+$ENDCMP
+#
+#End Doc Library

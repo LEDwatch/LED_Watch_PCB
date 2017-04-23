@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Q_PMOS
+D MOSFET, PMOS, 100MA, 1.2VGS, 40OHM RDS, SOT-723-3
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D MOSFET, PMOS, 100MA, 1.2VGS, 40OHM RDS, SOT-723-3
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+#End Doc Library
