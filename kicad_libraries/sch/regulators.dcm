@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD2979M33
+D IC, LDO, 3.3V, 50MA
+K LDO, REGUL*, 3.3, 
+$ENDCMP
+#
+#End Doc Library

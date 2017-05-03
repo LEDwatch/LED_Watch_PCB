@@ -1,4 +1,4 @@
-update=Sun 02 Apr 2017 02:06:47 PM CDT
+update=Tue 02 May 2017 08:22:14 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,7 +61,11 @@ LibName29=valves
 LibName30=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/si_labs_efm32
 LibName31=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/xtal
 LibName32=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/capacitors
-LibName33=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/inductor
-LibName34=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/mosfet
-LibName35=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/led
-LibName36=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/resistor
+LibName33=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/mosfet
+LibName34=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/led
+LibName35=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/resistor
+LibName36=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/TLC5954
+LibName37=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/watch_led
+LibName38=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/watch_pmos
+LibName39=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/inductor
+LibName40=/home/birdman/Documents/projects/LED_Watch_PCB/kicad_libraries/sch/regulators
